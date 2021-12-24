@@ -31,3 +31,10 @@ Bibliotecas
 ## 💻 Projeto
 
 Projeto final da Mission: Origin Foundation da Rocketseat. Uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+
+
+<h1></h1>
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Python" height="40" style="border-radius:50px;" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img align="center" alt="Rafa-Python" height="40" style="border-radius:50px;"
+     src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt='python'/>
